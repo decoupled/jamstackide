@@ -26,9 +26,19 @@ Sort answer:
 
 Longer answer:
 
-* Writing VSCode extensions is hard.
-* It requires knowledge that is sometimes beyond the abilities of the core team behind a web framework, for example.
-* Keeping the developer experience consistent when using multiple extensions requires coordination across teams
+As of august 2020, the quality of VSCode extensions related to the JAMStack is not ideal.
+This is due, in part, to the following reasons:
+
+* Writing VSCode extensions is hard and time consuming
+* Writing VSCode extensions sometimes requires knowledge that might be present in the core team behind a particular framework
+* Keeping the developer experience consistent across multiple extensions is hard
+* Updating and distributing extensions, and keeping them in sync with frameworks, is hard
+
+The JAMStack IDE addresses all of these issues by providing the following: (TODO)
+
+* Leadership and coordination
+* Quality control
+* A set of standard features (on top of the basic VSCode language features) that extensions can implement (for example: lifecycle, preview, issuing auth tokens, etc)
 
 # Contributing to the JAMStack IDE
 
