@@ -8,10 +8,16 @@ This is work in progress
 
 Participants:
 
-* Redwood.js
-* Netlify
-* FaunaDB
-* Prisma
+* Frameworks:
+  * Redwood.js, Next.js, Gatsby.js, Nuxt, Svelte, ...
+* Clouds
+  * Netlify
+* DB related
+  * FaunaDB
+  * Prisma
+* APIs
+  * Contentful
+* ...
 
 # Why did we build this?
 
@@ -23,11 +29,10 @@ Longer answer:
 * Writing VSCode extensions is hard.
 * It requires knowledge that is sometimes beyond the abilities of the core team behind a web framework, for example.
 * Keeping the developer experience consistent when using multiple extensions requires coordination across teams
-  
 
 # Contributing to the JAMStack IDE
 
-* If you are working on a web framework, API service, CSS library, etc that you believe adheres to the JAMStack architecture.
+* If you are working on a web framework, API service, CSS library, etc that you believe adheres to the JAMStack architecture
 
 ## Language Servers and The JAMStack IDE SDK
 
