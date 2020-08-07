@@ -5,25 +5,36 @@ This is work in progress
 # JAMStack IDE
 
 * The JAMStack IDE Is a VSCode Extension that provides high-quality support for a set of technologies, services and frameworks that adhere to the JAMStack architecture.
-* It is maintained by a core team and a diverse network of collaborators from 
-* Part of the code that powers the extension is in this repo
 
 Participants:
 
 * Redwood.js
 * Netlify
-* 
+* FaunaDB
+* Prisma
 
 # Why did we build this?
 
+Sort answer:
+* To make the JAMStack experience better for everyone!
+
+Longer answer:
+
+* Writing VSCode extensions is hard.
+* It requires knowledge that is sometimes beyond the abilities of the core team behind a web framework, for example.
+* Keeping the developer experience consistent when using multiple extensions requires coordination across teams
+  
 
 # Contributing to the JAMStack IDE
 
-* If you are working on a web framework, API service, CSS library, etc that you believe is part of the JAMStack.
+* If you are working on a web framework, API service, CSS library, etc that you believe adheres to the JAMStack architecture.
 
-## The JAMStack IDE SDK
+## Language Servers and The JAMStack IDE SDK
 
-* 
+* Contributions to the IDE have two parts
+  * You can add some logic to the main extension here
+  * Your framework can contribute a Language Server that uses an extended version of the Language Server Protocol
+  
 
 # FAQ
 
