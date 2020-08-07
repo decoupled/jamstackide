@@ -41,6 +41,14 @@ Longer answer:
   * Your framework can contribute a Language Server that uses an extended version of the Language Server Protocol
   
 
+### Diagnostics and Language Features
+
+* Diagnostics and Language features are provided by a Language Server that you implement, and publish, alongside your framework.
+
+
+### Project Outline, Lifecycle, Preview and others
+
+
 # FAQ
 
 * I can write VSCode extensions. Why would I build an extension for the JAMStack IDE?
