@@ -62,3 +62,17 @@ The JAMStack IDE addresses all of these issues by providing the following: (TODO
 
 * I can write VSCode extensions. Why would I build an extension for the JAMStack IDE?
 
+# LSP extensions
+
+## Diagnostic and Language Features
+
+Leverages the Language Server Protocol.
+
+## Project Outline
+
+## Lifecycle, Preview
+
+## Auth tokens and accounts
+
+
+
