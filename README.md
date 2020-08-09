@@ -73,5 +73,9 @@ Leverages the Language Server Protocol.
 
 ## Auth tokens and accounts
 
+## Future
+
+* Bidirectional navigation between rendered webpage and code
+  * We already implemented this for magic and partially for Next.js. It will be slightly different for every framework. The end result, when coupled with Netlify Dev for example, can completely change the development experience.
 
 
