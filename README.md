@@ -1,12 +1,12 @@
 ----
-This is work in progress
+
+This README is aspirational - The plan is to use [Decoupled Studio](https://marketplace.visualstudio.com/items?itemName=decoupled.studio) as a starting point
+
 ----
 
 # JAMStack IDE
 
 * The JAMStack IDE Is a VSCode Extension that provides high-quality support for a set of technologies, services and frameworks that adhere to the JAMStack architecture.
-
-Participants:
 
 * Frameworks:
   * Redwood.js, Next.js, Gatsby.js, Nuxt, Svelte, ...
