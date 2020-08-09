@@ -1,6 +1,6 @@
 ----
 
-This README is aspirational - The plan is to use [Decoupled Studio](https://marketplace.visualstudio.com/items?itemName=decoupled.studio) as a starting point
+This README is aspirational - The plan is to use [Decoupled Studio](https://marketplace.visualstudio.com/items?itemName=decoupled.studio) and the work with Redwood.js' IDE support as a starting point
 
 ----
 
