@@ -32,13 +32,12 @@ This is due, in part, to the following reasons:
 * Writing VSCode extensions is hard and time consuming
 * Writing VSCode extensions sometimes requires specialized knowledge that might not be present in the core team behind a particular framework
 * Keeping the developer experience consistent across multiple extensions is hard. This is critical, since most JAMStack projects combine multiple different technologies
-* Updating and distributing extensions, and keeping them in sync with frameworks, is hard
 
-The JAMStack IDE addresses all of these issues by providing the following: (TODO)
+The JAMStack IDE addresses all of these issues in the following ways:
 
-* Leadership and coordination - a central effort with a clear goal in mind: High quality experience across the board
-* An SDK that provides a common foundation for extensions (built on top of the Language Server Protocol)
-* A set of higher-level features (on top of the basic VSCode language features) that extensions can implement (for example: lifecycle, preview, issuing auth tokens, etc)
+* **Leadership and coordination** - a central effort with a clear goal in mind: High quality experience across the board
+* **An SDK and simple architecture** that provides a common foundation for extensions (built on top of the Language Server Protocol)
+* A set of higher-level features (on top of the basic VSCode language features) that extensions can implement (for example: lifecycle management, preview, issuing auth tokens, etc)
 
 # Contributing to the JAMStack IDE
 
