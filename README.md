@@ -7,6 +7,13 @@ This README is aspirational - The plan is to use [Decoupled Studio](https://mark
 # JAMStack IDE
 
 * The JAMStack IDE Is a VSCode Extension that provides high-quality support for a set of technologies, services and frameworks that adhere to the JAMStack architecture.
+* More importantly, the JAMStack IDE enables a set of **high-productivity workflows** that leverage the JAMStack's Git based approach for CI/CD
+
+# JAMStack Workflows
+
+
+
+# Framework Features
 
 * Frameworks:
   * Redwood.js, Next.js, Gatsby.js, Nuxt, Svelte, ...
@@ -19,7 +26,18 @@ This README is aspirational - The plan is to use [Decoupled Studio](https://mark
   * Contentful
 * ...
 
-# Why did we build this?
+## Redwood.js
+
+...
+
+## Netlify
+
+* 
+* Manage almost every aspect of your account and sites right from the IDE
+
+## Next.js
+
+## Why did we build this?
 
 Sort answer:
 * To make the JAMStack experience better for everyone!
