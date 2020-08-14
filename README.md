@@ -11,6 +11,9 @@ This README is aspirational - The plan is to use [Decoupled Studio](https://mark
 
 # JAMStack Workflows
 
+The main reason we're building the JAMStack IDE and adding support for all the frameworks and technologies is to enable the JAMStack Workflows.
+
+* In one click, the IDE enters a "workflow mode". In this mode you can just code, and you're guided by a visual aid.
 
 
 # Framework Features
